@@ -102,7 +102,7 @@ DynamicdefaultStyle = {
   tabItemContainer: {
     overflow: "hidden",
     backgroundColor: "#555555",
-    padding: 20,
+    padding: 8,
     justifyContent: "center",
     alignItems: "center"
   },
